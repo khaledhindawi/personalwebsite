@@ -7,22 +7,29 @@ h1 {
 	font-size:70px ;
 
 }
+h2{
+	color: purple;
+	font-size:30px ;
+}
 p {
 	font-size:20px ;
+	color: yellow;
+
 }
 ol{
 	font-size:30px ;
-
-
+}
+h1:hover ,h2:hover,p:hover,ol :hover{
+color:red;
 }
 .Milk {
 	/*border: solid 10px;*/
-	display: inline-block;
+	/*display: inline-block;*/
 	border:solid 10px blue ;
 	width:300px;
 	height:200px;
 	/*margin: auto;*/
-	background-image: url( "../images/1af904924a6fe100919b86d7e5fa6d9c.jpg");
+	background-image: url( "../images/Party-time-milka-milk-chocolate-for-wholesale.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	margin: 40px;
@@ -33,17 +40,17 @@ ol{
 }
 .milkp{
 	/*border: solid 10px;*/
-	display: inline-block;
+	/*display: inline-block;*/
 
 	border:solid 10px blue ;
 	width:300px;
-	height:450px;
+	height:550px;
 	margin: 40px;
 
 }
 .Dark{
-	/*border: solid 10px;*/
-	display: inline-block;
+	border: solid 10px;*/
+	/*display: inline-block;*/
 	background-size: 100% 100%;
 
 	border:solid 10px blue ;
@@ -59,18 +66,18 @@ ol{
 
 
 .Darkp{
-	display: inline-block;
+	/*display: inline-block;*/
 
 	border:solid 10px blue ;
 	width:300px;
-	height:300px;
+	height:400px;
 	margin: auto ;
 }
 
 
 
 .White{
-	display: inline-block;
+	/*display: inline-block;*/
 	background-size: 100% 100%;
 	border:solid 10px blue ;
 	width:300px;
@@ -83,7 +90,7 @@ ol{
 
 
 .Whitep{
-	display: inline-block;
+	/*display: inline-block;*/
 
 	border:solid 10px blue ;
 	width:300px;
@@ -92,14 +99,14 @@ ol{
 }
 
 .nav_bar{
-	display: inline-block;
-	border:solid 10px blue ;
+	display: inline-block;*/
+	border:solid 20px blue ;
 	margin: 20px 20px
 }
 .nav_bar li{
 	display: inline;
-	margin: 20px 20px;
-	font-size: 20px;
+	margin: 40px 40px;
+	font-size: 30px;
 
 }
 

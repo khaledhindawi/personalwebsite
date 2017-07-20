@@ -1,0 +1,13 @@
+body {
+	background-color: lightgreen;
+}
+.messege{
+	border:solid 10px red ;
+	width:240px;
+	height:300px;
+
+}
+.bigbox{
+	width:200px;
+	height:70px;
+}

@@ -2,12 +2,14 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="../static/stylesheets/style.css">
+	{%block head%}
+	{%endblock%}
 </head>
 	<body>
 		<ul class="nav_bar">
 			<li> <a href="/">HOME </a> </li>
-			<li><a href="/aboutme">ABOUT ME </a> </li>
-			<li> CONTACT</li>
+			<li><a href="/aboutme"> ABOUT ME </a> </li>
+			<li> <a href="/contact">CONTACT </a> </li>
 		</ul>
 		{%block body%}
 		{%endblock%}

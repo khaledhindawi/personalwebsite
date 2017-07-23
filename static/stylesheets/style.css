@@ -29,12 +29,14 @@ color:red;
 	width:300px;
 	height:200px;
 	/*margin: auto;*/
-	background-image: url( "../images/Party-time-milka-milk-chocolate-for-wholesale.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	margin: 40px;
 
+.milkimage {
+	
 
+}
 
 	/*margin: auto;*/*/
 }
@@ -99,7 +101,7 @@ color:red;
 }
 
 .nav_bar{
-	display: inline-block;*/
+	display: inline-block;
 	border:solid 20px blue ;
 	margin: 20px 20px
 }
